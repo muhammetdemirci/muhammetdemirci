@@ -55,14 +55,6 @@ Building **[Den](https://denapp.xyz)** — a language-learning app for iOS &amp;
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=muhammetdemirci&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
